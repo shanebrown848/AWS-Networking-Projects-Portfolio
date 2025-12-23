@@ -1,73 +1,81 @@
 <p align="center">
-  <img src="./trophy-Networking.png" alt="Networking Projects Badge" width="180" />
+  <img src="./trophy-Networking.png" alt="AWS Networking Projects Badge" width="180" />
 </p>
 
-# AWS Networking Projects Portfolio
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Networking-blue" />
+  <img src="https://img.shields.io/badge/Focus-Network%20Security-black" />
+  <img src="https://img.shields.io/badge/Style-Hands--On-green" />
+  <img src="https://img.shields.io/badge/Learning-NextWork-lightgrey" />
+</p>
 
-This repository contains a structured collection of hands-on AWS networking projects completed through the **NextWork** learning series. These projects demonstrate real-world cloud networking concepts including VPC design, traffic flow, security, connectivity, monitoring, and private service access.
+<h1 align="center">AWS Networking Projects Portfolio</h1>
 
-Each project builds on the previous one, forming a complete cloud networking foundation aligned with cloud engineering and cloud security roles.
+<p align="center">
+  A structured collection of hands-on AWS networking projects demonstrating real-world cloud networking,
+  security, monitoring, and private service access.
+</p>
 
 ---
 
-## Core Technologies
+## Overview
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Networking](https://img.shields.io/badge/Focus-Cloud%20Networking-blue)
-![Security](https://img.shields.io/badge/Focus-Network%20Security-black)
-![Hands-On](https://img.shields.io/badge/Style-Hands--On-green)
-![NextWork](https://img.shields.io/badge/Learning-NextWork-lightgrey)
+This repository serves as a master index for my AWS Networking projects completed through the **NextWork** learning series.  
+Each project builds on the previous one, forming a complete cloud networking foundation aligned with cloud engineering and cloud security roles.
+
+The portfolio focuses on **design, implementation, testing, troubleshooting, and monitoring** of AWS network infrastructure.
 
 ---
 
 ## Project Index
 
 ### 1. Cloud Networking Foundations
-- **AWS Networking Introduction**  
-  Fundamentals of cloud networking and AWS VPC concepts.
+- **Get Hands-on with Cloud Networking (AWS VPC Intro)**  
+  https://github.com/shanebrown848/Get-Hands-on-with-Cloud-Networking-AWS-VPC-Intro
 
 ### 2. Virtual Private Cloud (VPC)
-- **Build a Virtual Private Cloud**  
-  Created a custom VPC with CIDR blocks, subnets, and routing.
+- **Build a Virtual Private Cloud (AWS VPC)**  
+  https://github.com/shanebrown848/Build-a-Virtual-Private-Cloud-AWS-VPC
 
 ### 3. VPC Traffic Flow & Security
 - **VPC Traffic Flow and Security**  
-  Configured route tables, security groups, and network ACLs.
+  https://github.com/shanebrown848/VPC-Traffic-Flow-and-Security
 
 ### 4. Private Subnets
 - **Creating a Private Subnet**  
-  Designed private subnets with restricted routing and dedicated ACLs.
+  https://github.com/shanebrown848/Creating-a-Private-Subnet
 
 ### 5. Launching Compute in a VPC
 - **Launching VPC Resources**  
-  Deployed EC2 instances into public and private subnets with SSH access controls.
+  https://github.com/shanebrown848/Launching-VPC-Resources
 
 ### 6. VPC Connectivity Testing
 - **Testing VPC Connectivity**  
-  Verified internal and external connectivity using ping, curl, and troubleshooting techniques.
+  https://github.com/shanebrown848/Testing-VPC-Connectivity
 
 ### 7. VPC Peering
 - **VPC Peering**  
-  Connected multiple VPCs using peering connections and validated private cross-VPC traffic.
+  https://github.com/shanebrown848/VPC-Peering
 
 ### 8. VPC Monitoring
 - **VPC Monitoring with Flow Logs**  
-  Enabled VPC Flow Logs and analyzed traffic using CloudWatch Logs Insights.
+  https://github.com/shanebrown848/VPC-Monitoring-with-Flow-Logs
 
 ### 9. Accessing S3 from a VPC
 - **Access S3 from a VPC**  
-  Used EC2 and the AWS CLI to securely access Amazon S3.
+  https://github.com/shanebrown848/Access-S3-from-a-VPC
 
 ### 10. VPC Endpoints
 - **VPC Endpoints**  
-  Implemented S3 Gateway Endpoints and enforced private access using bucket and endpoint policies.
+  https://github.com/shanebrown848/VPC-Endpoints
 
 ---
 
 ## Skills Demonstrated
 
-- AWS VPC design and subnet architecture  
-- Routing and traffic flow analysis  
+- AWS VPC architecture and subnet design  
+- Routing, traffic flow, and connectivity analysis  
 - Security groups and network ACLs  
 - Private networking and VPC peering  
 - Connectivity testing and troubleshooting  
@@ -79,15 +87,16 @@ Each project builds on the previous one, forming a complete cloud networking fou
 
 ## Why This Portfolio Matters
 
-Cloud networking is foundational to cloud engineering, DevOps, and cloud security roles. These projects demonstrate not only configuration skills, but also **understanding, troubleshooting, and validation** of secure cloud networks.
+Cloud networking is foundational to cloud engineering, DevOps, and cloud security roles.  
+These projects demonstrate not just configuration, but **understanding, validation, and troubleshooting** of secure cloud networks.
 
-This portfolio reflects real-world AWS networking scenarios and best practices used in production environments.
+This portfolio reflects real AWS networking scenarios and production-style best practices.
 
 ---
 
 ## Documentation
 
-Each project folder includes:
+Each project repository includes:
 - A dedicated `README.md`
 - A `documentation.md` file with step-by-step notes, commands, diagrams, and reflections
 
